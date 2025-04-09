@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- ! [logo](https://github.com/Yogita-64/Yogita-64/blob/main/banner.webp)
+ ![logo](https://github.com/Yogita-64/Yogita-64/blob/main/banner.webp)
  <h1 align="center">Hi 👋, I'm Yogita Mane</h1>
 <h3 align="center">A passionate full-stack java developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://images.steamusercontent.com/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
