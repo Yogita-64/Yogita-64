@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/yogita mane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yogita mane" height="30" width="40" /></a>
 <a href="https://instagram.com/maneyogita2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="maneyogita2002" height="30" width="40" /></a>
- <a href="https://t.me/yogi62002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="" height="30" width="40" /></a>
+ 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
